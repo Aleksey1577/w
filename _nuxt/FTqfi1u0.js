@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as c}from"./d7gkqw9z.js";const n={},o={class:"min-h-screen bg-gray-100 flex items-center justify-center"},a=c("h1",{class:"text-4xl font-bold text-blue-500"}," Tailwind CSS работает! ",-1),r=[a];function _(i,d){return s(),t("div",o,r)}const f=e(n,[["render",_]]);export{f as default};
