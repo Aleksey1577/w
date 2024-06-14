@@ -10,6 +10,6 @@ export default defineNuxtConfig({
   },
   ssr: false,
   app: {
-    baseURL: "/w/", // Замените 'your-repository' на имя вашего репозитория
+    baseURL: '/your-repo-name/'
   },
 });
