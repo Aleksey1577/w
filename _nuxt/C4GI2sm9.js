@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as c}from"./CRLlmyMP.js";const o={},n={class:"min-h-screen bg-white flex items-center justify-center"},r=c("h1",{class:"text-3xl font-semibold text-gray-700"}," Тарифы ",-1),a=[r];function _(i,f){return s(),t("div",n,a)}const l=e(o,[["render",_]]);export{l as default};

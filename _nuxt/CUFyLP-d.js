@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as c}from"./CRLlmyMP.js";const o={},n={class:"min-h-screen bg-white flex items-center justify-center"},a=c("h1",{class:"text-3xl font-semibold text-gray-700"}," Контакты ",-1),r=[a];function _(i,d){return s(),t("div",n,r)}const l=e(o,[["render",_]]);export{l as default};
